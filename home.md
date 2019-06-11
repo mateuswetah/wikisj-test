@@ -6,7 +6,7 @@
 ok, um doi três
 `um código aqui`
 
-[video](https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw){.video}
+[video](https://www.youtube.com/watch?v=NPpftnFok2Q){.video}
 
 ![Screen Shot 2019 06 11 At 10 19 21](/uploads/pasta-de-teste/screen-shot-2019-06-11-at-10-19-21.png "Screen Shot 2019 06 11 At 10 19 21")
 
